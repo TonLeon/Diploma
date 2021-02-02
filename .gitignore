@@ -14,3 +14,9 @@ Films/.ipynb_checkpoints/Anna_Karenina_Work_with_Texts-checkpoint.ipynb
 Films/.ipynb_checkpoints/Keras&K-Means-checkpoint.ipynb
 Films/.DS_Store
 Films/10_frames/.DS_Store
+.DS_Store
+.DS_Store
+Films/.ipynb_checkpoints/Frame Extraction-checkpoint.ipynb
+vgg16_weights_tf_dim_ordering_tf_kernels.h5
+Films/Data/2012/feat_2012.csv
+Films/__pycache__/face_detection.cpython-38.pyc
